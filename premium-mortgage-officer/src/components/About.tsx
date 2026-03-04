@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Alex Sauceda" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Alex Sauceda
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Alex brings a strong foundation in mortgage lending built from years of experience inside the loan approval process. Beginning his career as an FHA and conventional mortgage underwriter, he developed a deep understanding of how loans are evaluated and approved from the lender’s perspective. This background allows Alex to anticipate potential challenges early, structure stronger applications, and guide clients through the home financing process with confidence and clarity.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Today, Alex applies that expertise as a mortgage loan officer, helping clients navigate one of the most important financial decisions of their lives. He is committed to making the home buying process as smooth and stress free as possible by providing clear communication, thoughtful guidance, and practical solutions tailored to each borrower’s situation. Whether working with first time homebuyers or experienced real estate investors, Alex takes the time to ensure every client understands their options and feels supported at every stage of the transaction.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Alex strongly believes that homeownership represents far more than a financial investment. To him, owning a home is a pathway to long term stability, security, and opportunity. Because of this belief, he focuses on educating and empowering his clients so they can make informed decisions that support their future goals and financial well being.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                Above all, Alex strives to be a trusted advisor and long term partner to the people he serves. By combining his underwriting background with a client first mindset, he works to deliver personalized lending solutions and dependable support throughout the entire mortgage journey, helping clients turn the dream of homeownership into a meaningful and rewarding reality.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
@@ -41,7 +41,7 @@ export const About = () => {
               </div>
               <div>
                 <span className="block text-3xl font-serif font-bold text-slate-900">Top 1%</span>
-                <span className="text-sm text-slate-500">Originator in WA</span>
+                <span className="text-sm text-slate-500">Originator in MO</span>
               </div>
             </div>
           </div>
